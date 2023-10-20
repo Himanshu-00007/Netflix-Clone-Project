@@ -1,0 +1,248 @@
+body{
+  background-color: black;
+}
+header{
+  border: 1px ;
+  margin-top:-9px;
+  margin-right:-9px;
+  margin-left: -9px;
+  height: 540px;
+  background-image: url("bgheader.jpg");
+  background-size:960px;
+  
+
+}
+#navbar{
+  border:2px;
+  height: 80px;
+  background-color: #0000008F;
+}
+ #navbar img{
+   height: 35px;
+   width: 100px;
+   padding-top:15px; 
+   padding-left: 5px;
+
+ } 
+ #btn{
+   background-color: red;
+   color: white;
+   font-size: 15px;
+   padding: 7px;
+   border-radius: 4px;
+   border:none;
+   float: right;
+   margin-top: 15px;
+   padding-left:15px;
+   padding-right:15px;
+   font-weight: bold;
+   margin-right: 7px;
+ }
+ #navpro{
+   font-size: 40px;
+   text-align: center;
+   color: white;
+   margin-bottom: 100px;
+   padding-top: 65px;
+ }
+ #navp{
+   font-size: 30px;
+   color: white;
+   text-align:center;
+   margin-top:-80px;
+ }
+ #wholebar{
+   border: 2px;
+   margin-top: -40px;
+   display: block;
+   height: 460px;
+   background-color: #0000008F;
+ }
+ #readywatch{
+   font-size: 20px;
+   color: white;
+   text-align:center;
+   margin-top:-200px;
+   border: 2px;
+   display: block;
+   width: 270px;
+   padding-left: 630px;
+   margin-top: -230px;
+ }
+  .email{
+    color:white;
+    background-color: #00000082;
+    border: 1px solid dimgrey;
+    border-radius: 5px;
+    margin-left:670px;
+    padding:10px;
+    padding-right: 25px;
+    padding-left:15px;
+    padding-top: 15px;
+    padding-bottom:15px;
+  }
+    ::placeholder{
+    color: #7C7C7C;
+  }
+  #btn2{
+   background-color: red;
+   color: white;
+   font-weight: bold;
+   border-radius: 4px;
+   border:none;
+   font-size: 20px;
+   text-align: center;
+   margin-left: 695px;
+   margin-top:30px;
+   padding-top:10px;
+   padding-bottom:10px;
+   padding-right:10px;
+   padding-left:10px;
+   
+  }
+  .greyline{
+    border:2px solid #414141;
+    margin-top:13px;
+    height:3px;
+    background-color: #414141;
+  }
+  .enjoy{
+   color: white;
+   text-align: center;
+   margin-top: 50px;
+font-size: 50px;
+  }
+  #watchtv{
+    color:white;
+    text-align:center;
+    display:block;
+    border:2px ;
+    width:320px;
+    margin-left:590px;
+    font-size:20px;
+  }
+  #tv{
+    height: 350px;
+    margin-left: 525px;
+    background-image: url("tvbg.gif");
+    background-repeat: no-repeat;
+    background-position-y:71px;
+    background-position-x:61px; 
+    background-size: 341px;
+  }
+  #grey2{
+    margin-top:50px;
+  }
+  #download{
+    border: 2px;
+    width: 550px;
+    margin-left: 470px;
+    font-size: 50px;
+  }
+  .downloadable{
+    border: 2px solid green;
+  }
+  #save{
+    color:white;
+    text-align:center;
+    display:block;
+    border:2px ;
+    width:300px;
+    margin-left:590px;
+    font-size:20px;
+  }
+  .mobileimg{
+    height: 350px;
+    margin-left: 520px;
+  }
+  #grey3{
+    margin-top: 50px;
+  }
+  
+  #stream{
+    color:white;
+    text-align:center;
+    display:block;
+    border:2px
+    width:320px;
+    margin-left:5px;
+    font-size:20px;
+  }
+  #deviceimg{
+    height: 350px;
+    margin-left: 490px;
+    background-image: url("giphy.gif");
+    background-size: 286px;
+    background-position-x: 87px;
+    background-position-y: 53px;
+   background-repeat: no-repeat;
+  }
+  #grey4{
+    margin-top:50px; 
+  }
+  .kids{
+    font-size: 50px;
+    color: white;
+    border: 2px;
+    width: 558px;
+    margin-left: 470px;
+    text-align: center;
+ margin-top: 50px;
+  }
+  #children{
+    color:white;
+    text-align:center;
+    display:block;  
+    border:2px;
+    width:360px;
+    margin-left: 555px;
+    font-size:20px;
+  }
+  #readywatch2{
+   font-size: 20px;
+   color: white;
+   text-align:center;
+   margin-top:-200px;
+   border: 2px;
+   display: inline-block;
+   width: 270px;
+   padding-left: 637px;
+   margin-top: 30px;
+  }
+  #qstns{
+    color: grey;
+  }
+  #decor{
+    text-decoration: underline;
+  }
+  #decor a{
+    color: grey;
+  }
+  #departure ul li a{
+    color: #D3D3D3 ;
+    border: none;
+  }
+    #departure ul{
+      margin-left: -30px;
+      
+    }
+  #departure ul li{
+    padding: 5px;
+  }
+  #continuation ul li{
+    padding:5px;
+  }
+  #continuation ul li a{
+    color: #D3D3D3;
+    border: none;
+    display: inline;
+    float: left;
+  }
+  #continuation ul {
+    float: right ;
+    margin-top: -250px;
+    
+  }
+  #fontselect{
+    font-family: sans-serif;
+  }
